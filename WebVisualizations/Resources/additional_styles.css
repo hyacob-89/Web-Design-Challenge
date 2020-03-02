@@ -1,0 +1,39 @@
+.row {
+  margin-right: 15px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.jumbotron-1-landing-page {
+  margin-bottom: 0px;
+  margin-left: 15px;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  background-color: rgb(248,249,250);
+  min-height: auto;
+}
+
+.jumbotron-2-landing-page {
+  margin-bottom: 0px;
+  margin-left: 15px;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  background-color: rgb(248,249,250);
+  min-height: auto;
+}
+
+#landing-pg-container {
+  padding-left: 0px;
+}
+
+#viz-thumbnails {
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
